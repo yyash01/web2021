@@ -29,7 +29,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Expreience is shit
 - I learn Basic - HTML + CSS 
 - One Thing is Amazing - We can use a shortcut to insert emoji in Documents or any app in windows --(press window button and .)
-
+- ❤❤✌👌✌❤
 
 ## Contact
 
